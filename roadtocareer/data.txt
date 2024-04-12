@@ -1,12 +1,13 @@
 Road to Career is an online institute that offers full stack SQA and DevOps course. We have currently 450+ students and about 300 students doing job at several reputed companies.
-Instructor is Mahidul Hasan, who is Lead DevOps and AVP at progoti systems ltd, having 15 years of job experience and having AWS certification.
-We have 2 course schedule. One is for regular (Fresh graduate and student) and other is for job holders.
+We have two Instructor. One is Salman Rahman who is 9 years of experience SQA automation engineer and founder of Road to Career. He is ISTQB certified and currently doing job as Senior Software Engineer at Cefalo Bangladesh Ltd, a leading software company. Another instructor is Mahidul Hasan, who is Lead DevOps and AVP at progoti systems ltd, having 15 years of job experience and having AWS certification. Mahidul Hasan is responsible for DevOps related course.
+We have 2 course schedule for Full stack SDET course. One is for regular (Fresh graduate and student) and other is for job holders.
+DevOps course is currently unavailable.
 
 About course information:
 Course length: 3 months
 Course duration: 70 hours
 Weekly 3 classes for regular batch and 2 classes for job holder batch.
-Our next batch will start from 1st week of May 2024 and enrollment will start from Middle of April. Our all announcement regarding enrollment procedure and others we post on our facebook page and group.
+Our next batch Full Stack SDET batch-11 orientation class is on May 4, 2024 at 8:30PM and class will continue from Monday, May 6, 2024 and enrollment is ongoing now. To enroll at full stack SDET course, please visit this link: https://www.roadtocareer.net/course/sdet202401101
 
 Regular batch class happens every Monday, Wednesday and Friday from 8:30pm to 10:30pm
 Job holder batch class happens every Saturday and Sunday from 8:30pm to 10:30PM.
