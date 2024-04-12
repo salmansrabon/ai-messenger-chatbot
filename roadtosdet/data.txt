@@ -7,6 +7,7 @@ Course length: 3 months
 Course duration: 70 hours
 Weekly 3 classes for regular batch and 2 classes for job holder batch.
 Our next batch Full Stack SDET batch-11 orientation class is on May 4, 2024 at 8:30PM and class will continue from Monday, May 6, 2024 and enrollment is ongoing now. To enroll at full stack SDET course, please visit this link: https://www.roadtocareer.net/course/sdet202401101
+(don't add fullstop after the course link. it shows invalid weblink)
 
 Regular batch class happens every Monday, Wednesday and Friday from 8:30pm to 10:30pm
 Job holder batch class happens every Saturday and Sunday from 8:30pm to 10:30PM.
