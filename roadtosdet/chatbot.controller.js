@@ -3,8 +3,8 @@ const fs = require('fs').promises;
 require('dotenv').config();
 
 const botConfig={
-    name:"SDET Bot",
-    dataFile:"./roadtosdet/data.txt"
+    name:"Road to SDET course coordinator",
+    dataFile:"./roadtosdet/data.md"
 }
 
 const chatBotResponse=async (req, res)=>{
