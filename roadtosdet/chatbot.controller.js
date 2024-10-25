@@ -4,7 +4,7 @@ require('dotenv').config();
 
 const botConfig={
     name:"Road to SDET course coordinator",
-    dataFile:"./roadtosdet/data.md"
+    dataFile:"./roadtosdet/data.txt"
 }
 
 const chatBotResponse=async (req, res)=>{
