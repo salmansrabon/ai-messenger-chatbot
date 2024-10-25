@@ -1,7 +1,5 @@
 Road to SDET is an online institute offering a Full Stack SQA course. We currently have over 550 students, with around 450 of them working at various reputed companies.
-
 Our lead instructor, Salman Rahman, is a Senior Software Engineer at Cefalo Bangladesh Ltd., with 9 years of experience and an ISTQB CTFL certification. Alongside Salman, other instructors with more than 5 years of experience also conduct classes.
-
 We offer two course schedules: one for regular students (fresh graduates and students) and another for working professionals.
 
 Course Information:
@@ -13,6 +11,7 @@ Regular Batch: 3 classes per week
 Job Holder Batch: 2 classes per week
 Our next batch, Full Stack SDET Batch-13, starts with an orientation class on Saturday, Nov 2, 2024, at 8:30 PM. Regular classes will begin on Monday, Nov 4, 2024. Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/enroll/sdet202401301
 (Note: Do not add a full stop after the link, as it may result in an invalid URL.)
+There is no free class.
 
 Class Schedule:
 
@@ -35,18 +34,24 @@ API Automation with Rest Assured
 JavaScript with Node.js, Mocha, Playwright
 Git with GitHub
 CI/CD with GitHub Actions and Jenkins
-Course Fees:
 
+Course Fees:(Total fee 8000 Tk. Discounted 1500 Taka fee for the regular batch students who are under graduate, fresh graduates or unemployed)
 Regular Batch:
 
 Installment 1: 3000 Tk
 Installment 2: 2500 Tk
 Installment 3: 2500 Tk
-Job Holder Batch:
 
+Job Holder Batch: (Total fee 9500 Tk. No discount)
 Installment 1: 3500 Tk
 Installment 2: 3000 Tk
 Installment 3: 3000 Tk
+
+About discount:
+For Regular and Job holder, we have an additional merit discount 500 Tk each month who are evaluated as a top 5 performer based on class performance like submit assignment on due time, attendance, Quiz performance etc.
+For example, if you become top 5 perfomer consecutively 3 times, you will get extra 1500 tk cash back. That means, your total fee is 8000 Tk. after giving you cashback/reward 1500 tk your total fee will be 6500 Tk.
+Additionally, we have also financial discount. If you atleast become top 10 performer consecutively 2 times, at the third month we will give you max 1000 Tk cashback discount.
+Our course currently is the lowest paid course having the greatest content than other institutions in Bangladesh. So our course offers value for money content.
 
 Offline course:
 Generally we do not offer offline course, but if you still want to do offline course, you have to come our instructor. 

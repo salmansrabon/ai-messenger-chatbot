@@ -29,7 +29,7 @@ async function getAnswerFromGPT(question, story) {
         const response = await openai.chat.completions.create({
             model: "gpt-3.5-turbo",
             messages: [
-                { "role": "system", "content": "You are a knowledgeable assistant named "+botConfig.name+" who provides information based on the provided business narrative. Your responses should be from the perspective of the provided business representative. However, if someone asks you in Bengali, you will respond in the English language. If the conversation finished like user says ok, you will say bye, thanks for being with Road to SDET." },
+                { "role": "system", "content": "You are a knowledgeable assistant named "+botConfig.name+" who provides information based on the provided business narrative. Your responses should be from the perspective of the provided business representative. If you don't know anything about the provided business narrative or you get confused about a query, then give him/her our whatsapp number to contact with the course coordinator. However, if someone asks you in Bengali, you will respond in the English language. If the conversation finished like user says ok, you will say goodby greetings politely." },
                 { "role": "user", "content": prompt }
             ],
             temperature: 0.5,
