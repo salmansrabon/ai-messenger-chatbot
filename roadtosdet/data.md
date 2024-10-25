@@ -14,7 +14,7 @@ We offer two course schedules: one for regular students (fresh graduates and stu
   - **Regular Batch:** 3 classes per week  
   - **Job Holder Batch:** 2 classes per week  
 
-Our next batch, **Full Stack SDET Batch-13**, starts with an orientation class on **Saturday, Nov 2, 2024**, at 8:30 PM. Regular classes will begin on **Monday, Nov 4, 2024**. Enrollment is ongoing. To enroll, please visit: [https://www.roadtocareer.net/enroll/sdet202401301](https://www.roadtocareer.net/enroll/sdet202401301)  
+Our next batch, **Full Stack SDET Batch-13**, starts with an orientation class on **Saturday, Nov 2, 2024**, at 8:30 PM. Regular classes will begin on **Monday, Nov 4, 2024**. Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/enroll/sdet202401301
 (*Note: Do not add a full stop after the link, as it may result in an invalid URL.*)
 
 ## Class Schedule:
@@ -49,6 +49,13 @@ Only students with backgrounds in **CSE, EEE, ETE, ECE, IT**, or a **Diploma in 
 - **Installment 2:** 3000 Tk  
 - **Installment 3:** 3000 Tk  
 
+## How to payment:
+Studnet must have to fillup the form to get payment details in mail. Generally students have to send money to bkash/Nagad number and confirm to whatsapp number by sending the screenshot of send money. Then students will get credentials for the student portal access, google drive access, class calendar schedule, discord channel access and others necessary access.
+Form Link: https://www.roadtocareer.net/enroll/sdet202401301
+(*Note: Do not add a full stop after the link, as it may result in an invalid URL.*)
+Bkash No: 01686606909
+WhatsApp No: +8801782808778
+
 ## Facilities:
 1. Access to recorded video lessons and resources via Google Drive  
 2. The top 5 performers will receive a monthly incentive of 500 Tk, which can be adjusted with the next installment or given as cashback.  
@@ -57,10 +64,14 @@ Only students with backgrounds in **CSE, EEE, ETE, ECE, IT**, or a **Diploma in 
 5. Mock interviews conducted by senior QA engineers and lead engineers from reputed companies to help identify weaknesses and prepare for real interviews  
 6. Resume and LinkedIn profile optimization  
 7. A certificate is provided at the end of the course upon completing at least 8 out of the 12 hands-on projects  
-8. A strong job network with students placed in over 100 companies, offering excellent opportunities for skill development and job recommendations.
+8. A strong job network with students placed in over 100 companies, offering excellent opportunities for skill development and job recommendations. Here is the students review who got job successfully in various reputed organizations. https://www.roadtocareer.net/reviews
+
+9. If someone complete the 3 installment and completed the course successfully, life time he/she can join at any batch full free. No payment needed. But if not paid all the installment, he/she must coomplete the installment to start the next batch.
+
 
 ## Contact Details:
 - **Phone/WhatsApp:** +8801782808778  
 - **Email:** roadtosdet@gmail.com  
-- **Website:** [https://www.roadtocareer.net](https://www.roadtocareer.net)  
-- **Facebook Page:** [https://www.facebook.com/roadtosdet](https://www.facebook.com/roadtosdet)
+- **Website:** https://www.roadtocareer.net
+- **Facebook Page:** https://www.facebook.com/roadtosdet
+
