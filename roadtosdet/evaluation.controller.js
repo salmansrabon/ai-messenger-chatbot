@@ -13,8 +13,20 @@ const evaluateAnswer = async (req, res) => {
                     The expected answer is: "${expectedAnswer}".
                     The student's answer is: "${studentAnswer}".
                     The total points available for this question is ${pointsPerQuestion}.
-                    Evaluate the student's answer and suggest a score out of ${pointsPerQuestion} based on its correctness, completeness, and relevance to the expected answer.
-                    Provide your evaluation reasoning and the suggested score.
+
+                    Evaluate the student's answer based on the following scoring rules:
+                    1. If the answer is completely incorrect or irrelevant, give a score of 0.
+                    2. If the answer is 90-100% correct (almost identical to the expected answer in terms of meaning and relevance), give full marks (${pointsPerQuestion}).
+                    3. If the answer is 70-80% correct (mostly correct but missing minor details), give a score of 8 or 9.
+                    4. If the answer is 50-69% correct (has some correct elements but is missing major parts), give a score between 5 and 7.
+                    5. If the answer is less than 50% correct, give a score between 1 and 4 based on its accuracy.
+
+                    Provide your evaluation reasoning and the score directly in the following JSON format:
+                    {
+                        "evaluation": "<Your detailed evaluation here>",
+                        "score": <score>
+                    }
+                    Ensure the score is a number between 0 and ${pointsPerQuestion}.
                 ` }
             ]
         }, {
@@ -23,26 +35,19 @@ const evaluateAnswer = async (req, res) => {
             }
         });
 
-        const evaluation = response.data.choices[0].message.content;
-        const score = parseScore(evaluation);
+        // Parse the structured JSON response
+        const evaluationResponse = JSON.parse(response.data.choices[0].message.content);
 
-        res.json({ evaluation, score });
+        res.json({
+            evaluation: evaluationResponse.evaluation,
+            score: evaluationResponse.score
+        });
     } catch (error) {
+        console.error('Error evaluating answer:', error.message);
         res.status(500).json({ error: 'Error evaluating answer' });
     }
 };
 
-function parseScore(evaluation) {
-    const scorePattern = /score of (\d+)\s*\/\s*(\d+)/i;
-    const match = evaluation.match(scorePattern);
-    if (match) {
-        return {
-            score: parseInt(match[1], 10),
-            maxPoints: parseInt(match[2], 10)
-        };
-    } else {
-        return { score: 0, maxPoints: 0 };
-    }
-}
-
 module.exports = { evaluateAnswer };
+
+
