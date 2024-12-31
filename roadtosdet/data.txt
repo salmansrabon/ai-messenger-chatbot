@@ -1,4 +1,4 @@
-Road to SDET is an online institute offering a Full Stack SQA course. We currently have over 550 students, with around 450 of them working at various reputed companies.
+Road to SDET is an online institute offering a Full Stack SQA course. We currently have over 600 students, with around 500 of them working at various reputed companies.
 Our lead instructor, Salman Rahman, is a Senior Software Engineer at Cefalo Bangladesh Ltd., with 9 years of experience and an ISTQB CTFL certification. Alongside Salman, other instructors with more than 5 years of experience also conduct classes.
 We offer two course schedules: one for regular students (fresh graduates and students) and another for working professionals.
 
@@ -9,8 +9,9 @@ Course Duration: 70 hours
 Class Frequency:
 Regular Batch: 3 classes per week
 Job Holder Batch: 2 classes per week
-Our next batch, Full Stack SDET Batch-13, starts with an orientation class on Saturday, Nov 2, 2024, at 8:30 PM. Regular classes will begin on Monday, Nov 4, 2024. Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/enroll/sdet202401301
-(Note: Do not add a full stop after the link, as it may result in an invalid URL.)
+Our next batch, Full Stack SDET Batch-14, starts with an orientation class on Saturday, February 8, 2025, at 8:30 PM. Regular classes will begin on Monday, February 10, 2025. 
+Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/course/sdet202401401/
+(Note: Do not add a full stop after the URL, as it may result in an invalid URL.)
 There is no free class.
 
 Class Schedule:
@@ -29,17 +30,16 @@ Database (MySQL)
 Core Java with Programming Problem Solving
 Selenium with JUnit and TestNG for Web Automation
 Appium for Mobile App Automation
-BDD with Cucumber
 API Automation with Rest Assured
 JavaScript with Node.js, Mocha, Playwright
 Git with GitHub
 CI/CD with GitHub Actions and Jenkins
 
-Course Fees:(Total fee 8000 Tk. Discounted 1500 Taka fee for the regular batch students who are under graduate, fresh graduates or unemployed)
+Course Fees:(Total fee 8500 Tk. Discounted 1000 Taka fee for the regular batch students who are under graduate, fresh graduates or unemployed)
 Regular Batch:
 
 Installment 1: 3000 Tk
-Installment 2: 2500 Tk
+Installment 2: 3000 Tk
 Installment 3: 2500 Tk
 
 Job Holder Batch: (Total fee 9500 Tk. No discount)
@@ -59,8 +59,8 @@ Generally we do not offer offline course, but if you still want to do offline co
 Time will be discussed later. Instructor address and phonenumber will be provided in phone call.
 
 How to Payment: Students must fill out the form to get payment details by email. Generally, students send money to the provided bKash/Nagad number and confirm on WhatsApp by sending a screenshot of the transaction. After confirmation, students receive credentials for the student portal, Google Drive access, class calendar, Discord channel, and other necessary resources.
-Form Link: https://www.roadtocareer.net/enroll/sdet202401301
-(Note: Do not add a full stop after the link, as it may result in an invalid URL.)
+Form Link: https://www.roadtocareer.net/course/sdet202401401/
+(Note: Do not add a full stop after the url, as it may result in an invalid URL.)
 bKash No: 01686606909
 WhatsApp No: +8801782808778
 
