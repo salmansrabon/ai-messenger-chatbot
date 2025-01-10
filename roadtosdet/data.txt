@@ -4,8 +4,9 @@ We offer two course schedules: one for regular students (fresh graduates and stu
 
 Course Information:
 
-Course Length: 3 months
-Course Duration: 70 hours
+Course Name: Ramadan Gold Special Job Preparation course
+Course Length: 2 months
+Course Duration: 40 hours
 Class Frequency:
 Regular Batch: 3 classes per week
 Job Holder Batch: 2 classes per week
@@ -25,33 +26,20 @@ Course Modules:
 
 Manual Testing (6 classes, covering 50% of the ISTQB syllabus)
 API Testing with Postman and Newman
-Performance Testing with JMeter
 Database (MySQL)
 Core Java with Programming Problem Solving
 Selenium with JUnit and TestNG for Web Automation
-Appium for Mobile App Automation
-API Automation with Rest Assured
-JavaScript with Node.js, Mocha, Playwright
 Git with GitHub
-CI/CD with GitHub Actions and Jenkins
 
-Course Fees:(Total fee 8500 Tk. Discounted 1000 Taka fee for the regular batch students who are under graduate, fresh graduates or unemployed)
+Course Fees:(Total fee 5500 Tk. No discount)
 Regular Batch:
 
 Installment 1: 3000 Tk
-Installment 2: 3000 Tk
-Installment 3: 2500 Tk
+Installment 2: 2500 Tk
 
-Job Holder Batch: (Total fee 9500 Tk. No discount)
+Job Holder Batch: (Total fee 6500 Tk. No discount)
 Installment 1: 3500 Tk
 Installment 2: 3000 Tk
-Installment 3: 3000 Tk
-
-About discount:
-For Regular and Job holder, we have an additional merit discount 500 Tk each month who are evaluated as a top 5 performer based on class performance like submit assignment on due time, attendance, Quiz performance etc.
-For example, if you become top 5 perfomer consecutively 3 times, you will get extra 1500 tk cash back. That means, your total fee is 8000 Tk. after giving you cashback/reward 1500 tk your total fee will be 6500 Tk.
-Additionally, we have also financial discount. If you atleast become top 10 performer consecutively 2 times, at the third month we will give you max 1000 Tk cashback discount.
-Our course currently is the lowest paid course having the greatest content than other institutions in Bangladesh. So our course offers value for money content.
 
 Offline course:
 Generally we do not offer offline course, but if you still want to do offline course, you have to come our instructor. 
@@ -68,9 +56,9 @@ Facilities:
 
 Access to recorded video lessons and resources via Google Drive
 
-Top 5 performers receive a monthly incentive of 500 Tk, either adjusted with the next installment or given as cashback
+Top 3 performers receive a monthly incentive of 500 Tk, either adjusted with the next installment or given as cashback
 
-Completion of 12 hands-on projects hosted on GitHub, essential for skill enhancement and job preparation
+Completion of 4 hands-on projects hosted on GitHub, essential for skill enhancement and job preparation
 
 Dedicated support instructor for assistance
 
