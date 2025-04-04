@@ -1,17 +1,18 @@
-Road to SDET is an online institute offering a Full Stack SQA course. We currently have over 600 students, with around 500 of them working at various reputed companies.
-Our lead instructor, Salman Rahman, is a Senior Software Engineer at Cefalo Bangladesh Ltd., with 9 years of experience and an ISTQB CTFL certification. Alongside Salman, other instructors with more than 5 years of experience also conduct classes.
+Road to SDET is an online institute offering a Full Stack SQA course. We currently have over 650 students, with around 500 of them working at various reputed companies.
+Our lead instructor, Salman Rahman, is a Senior Software Engineer at Cefalo Bangladesh Ltd., with 10 years of experience and an ISTQB CTFL certification. Alongside Salman, other instructors with more than 5 years of experience also conduct classes.
 We offer two course schedules: one for regular students (fresh graduates and students) and another for working professionals.
 
 Course Information:
 
-Course Name: Ramadan Gold Special Job Preparation course
-Course Length: 2 months
-Course Duration: 40 hours
+Course Name: Full Stack SQA Engineering
+Course Length: 3 months
+Course Duration: 70 hours
 Class Frequency:
 Regular Batch: 3 classes per week
 Job Holder Batch: 2 classes per week
-Our next batch, Full Stack SDET Batch-14, starts with an orientation class on Saturday, February 8, 2025, at 8:30 PM. Regular classes will begin on Monday, February 10, 2025. 
-Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/course/sdet202401401/
+Our next batch, Full Stack SDET Batch-15 (Regular Batch), will start with an orientation class on Saturday, May 3, 2025, at 8:30 PM. Regular classes will begin on Monday, May 5, 2025. 
+and Advanced Automation Course Batch-15 (Jobholder Batch), will start with an orientation class on Saturday, May 3, 2025, at 8:30 PM. Jobholder classes will begin on Saturday, May 10, 2025. 
+Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/courses/sdet152025
 (Note: Do not add a full stop after the URL, as it may result in an invalid URL.)
 There is no free class.
 
@@ -22,33 +23,57 @@ Job Holder Batch: Every Saturday and Sunday from 8:30 PM to 10:30 PM
 Eligibility:
 Only students with backgrounds in CSE, EEE, ETE, ECE, IT, or a Diploma in CSE, CS, or IT are eligible to take this course.
 
-Course Modules:
+Course Module for Regular batch:
 
 Manual Testing (6 classes, covering 50% of the ISTQB syllabus)
 API Testing with Postman and Newman
+Performance Testing using Jmeter
 Database (MySQL)
 Core Java with Programming Problem Solving
 Selenium with JUnit and TestNG for Web Automation
+Mobile app automation by Appium
+API automation using Rest assured
+Learn JavaScript (NodeJS)
+Web automation using Playwright
 Git with GitHub
 
-Course Fees:(Total fee 5500 Tk. No discount)
+Regular batch Course Fee:(Total fee 8500 Tk. Having merit discount for top 5 each having 500 Tk each month)
 Regular Batch:
 
 Installment 1: 3000 Tk
 Installment 2: 2500 Tk
+Installment 3: 3000 Tk
 
-Job Holder Batch: (Total fee 6500 Tk. No discount)
-Installment 1: 3500 Tk
+Regular batch Course Enrollment Link: https://www.roadtocareer.net/courses/sdet152025
+
+
+Course Module for Jobholder batch:
+
+API Testing with Postman and Newman
+Performance Testing using Jmeter
+Database (MySQL)
+Core Java with Programming Problem Solving
+Selenium with JUnit and TestNG for Web Automation
+Mobile app automation by Appium
+API automation using Rest assured
+Learn JavaScript (NodeJS) and Python
+Web automation using Playwright and PyUnit
+Git with GitHub
+
+
+Job Holder Batch course fee: (Total fee 10000 Tk. Having merit discount for top 3 each having 500 Tk each month)
+Installment 1: 4000 Tk
 Installment 2: 3000 Tk
+Installment 3: 3000 Tk
+
+Job holder Course Enrollment Link: https://www.roadtocareer.net/courses/psdet152025
 
 Offline course:
-Generally we do not offer offline course, but if you still want to do offline course, you have to come our instructor. 
+Generally we do not offer offline course, but if you still want to do offline course, you have to talk with our instructor. 
 3 month course 30 Thousand. Per month 10K Tk. Every Saturday and Sunday. 
 Time will be discussed later. Instructor address and phonenumber will be provided in phone call.
 
 How to Payment: Students must fill out the form to get payment details by email. Generally, students send money to the provided bKash/Nagad number and confirm on WhatsApp by sending a screenshot of the transaction. After confirmation, students receive credentials for the student portal, Google Drive access, class calendar, Discord channel, and other necessary resources.
-Form Link: https://www.roadtocareer.net/course/sdet202401401/
-(Note: Do not add a full stop after the url, as it may result in an invalid URL.)
 bKash No: 01686606909
 WhatsApp No: +8801782808778
 
