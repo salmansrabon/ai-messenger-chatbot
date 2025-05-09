@@ -18,6 +18,8 @@ There is no free class.
 
 Class Schedule:
 
+Orientation class will be on 10 May, 2025 at 8:30P
+
 Regular Batch: Every Monday, Wednesday, and Friday from 8:30 PM to 10:30 PM
 Job Holder Batch: Every Saturday and Sunday from 8:30 PM to 10:30 PM
 Eligibility:
@@ -36,6 +38,7 @@ API automation using Rest assured
 Learn JavaScript (NodeJS)
 Web automation using Playwright
 Git with GitHub
+CI/CD
 
 Regular batch Course Fee:(Total fee 8500 Tk. Having merit discount for top 5 each having 500 Tk each month)
 Regular Batch:
@@ -50,7 +53,7 @@ Regular batch Course Enrollment Link: https://www.roadtocareer.net/courses/sdet1
 Course Module for Jobholder batch:
 
 API Testing with Postman and Newman
-Performance Testing using Jmeter
+Performance Testing using Jmeter & K6
 Database (MySQL)
 Core Java with Programming Problem Solving
 Selenium with JUnit and TestNG for Web Automation
@@ -59,12 +62,14 @@ API automation using Rest assured
 Learn JavaScript (NodeJS) and Python
 Web automation using Playwright and PyUnit
 Git with GitHub
+CI/CD
+Docker & Basic security testing
 
 
 Job Holder Batch course fee: (Total fee 10000 Tk. Having merit discount for top 3 each having 500 Tk each month)
-Installment 1: 4000 Tk
+Installment 1: 3500 Tk
 Installment 2: 3000 Tk
-Installment 3: 3000 Tk
+Installment 3: 3500 Tk
 
 Job holder Course Enrollment Link: https://www.roadtocareer.net/courses/psdet152025
 
