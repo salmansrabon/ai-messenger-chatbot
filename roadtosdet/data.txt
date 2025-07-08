@@ -12,16 +12,17 @@ Regular Batch: 3 classes per week
 Job Holder Batch: 2 classes per week
 Our next batch, Full Stack SDET Batch-15 (Regular Batch), will start with an orientation class on Saturday, May 3, 2025, at 8:30 PM. Regular classes will begin on Monday, May 5, 2025. 
 and Advanced Automation Course Batch-15 (Jobholder Batch), will start with an orientation class on Saturday, May 3, 2025, at 8:30 PM. Jobholder classes will begin on Saturday, May 10, 2025. 
-Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/courses/sdet152025
+Enrollment is ongoing. To enroll, please visit: https://www.roadtocareer.net/courses/sdet162025
 (Note: Do not add a full stop after the URL, as it may result in an invalid URL.)
 There is no free class.
 
 Class Schedule:
 
-Orientation class will be on 10 May, 2025 at 8:30P
+Orientation class will be on 4th August, 2025 at 8:30PM
 
 Regular Batch: Every Monday, Wednesday, and Friday from 8:30 PM to 10:30 PM
 Job Holder Batch: Every Saturday and Sunday from 8:30 PM to 10:30 PM
+Job holder batch 16 will be start on September 1st week in probable
 Eligibility:
 Only students with backgrounds in CSE, EEE, ETE, ECE, IT, or a Diploma in CSE, CS, or IT are eligible to take this course.
 
@@ -47,7 +48,7 @@ Installment 1: 3000 Tk
 Installment 2: 2500 Tk
 Installment 3: 3000 Tk
 
-Regular batch Course Enrollment Link: https://www.roadtocareer.net/courses/sdet152025
+Regular batch Course Enrollment Link: https://www.roadtocareer.net/courses/sdet162025
 
 
 Course Module for Jobholder batch:
