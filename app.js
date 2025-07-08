@@ -5,6 +5,7 @@ const sdetbotRoutes = require('./roadtosdet/chatbot.route.js');
 const careerbotRoutes = require('./roadtocareer/chatbot.route.js');
 
 
+app.use(cors({ origin: "http://localhost:3000" }));
 app.use(bodyParser.json());
 app.use('/roadtosdet', sdetbotRoutes);
 app.use('/roadtocareer', careerbotRoutes);
