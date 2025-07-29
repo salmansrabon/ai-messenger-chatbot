@@ -33,100 +33,76 @@ He is joined by other highly experienced instructors, each with 5+ years of hand
 🕗 Class Days: Saturday and Sunday
 
 🕘 Class Time: 8:30 PM – 10:30 PM
-
-📌 Enroll Here: https://www.roadtocareer.net/courses/psdet152025
+Enrollment link will be available after announcement of job holder batch starting
 
 ✅ Eligibility
 Applicants must have academic backgrounds in:
-
 CSE, EEE, ETE, ECE, IT
-
 Diploma in CSE/CS/IT
 
 📚 Course Modules
-🔸 Regular Batch
-Manual Testing (6 classes, covering 50% of ISTQB syllabus)
+🔸 Regular Batch-3 month course, total (32-35 classes)
+Manual Testing (5 classes, covering 50% of ISTQB syllabus)
+Burpsuite (1 class )
+API Testing (Postman, Newman) (3 classes)
+Performance Testing (JMeter) (2 classes)
+MySQL Database (1 class)
+Core Java + Problem Solving + OOP (6 classes)
+Selenium with JUnit & TestNG (5 classes)
+Appium (Android Mobile App Automation) (2 classes)
+API Automation (Rest Assured) (1 class)
+JavaScript (NodeJS) (3 classes)
+Web Automation (Playwright) (2 classes)
+Git & GitHub (including automation class)
+CI/CD (1 class)
 
-API Testing (Postman, Newman)
+🔸 Job Holder Batch (Advanced Automation-2+1 month course)
+Includes following topics:
 
-Performance Testing (JMeter)
+---2 month syllabus---
+Problem solving with Java & OOP (5 classes)
+Selenium with junit & TestNG (5 classes)
+API automation with Rest assured (1 class)
+Mobile App automation (Android) (1 class)
+JavaScript & Playwright (6 classes)
 
-MySQL Database
-
-Core Java + Problem Solving
-
-Selenium with JUnit & TestNG
-
-Appium (Mobile Automation)
-
-API Automation (Rest Assured)
-
-JavaScript (NodeJS)
-
-Web Automation (Playwright)
-
-Git & GitHub
-
-CI/CD
-
-🔸 Job Holder Batch (Advanced Automation)
-Includes all of the above, plus:
-
-K6 (Advanced Performance Testing)
-
-Python Programming
-
-PyUnit for Python Automation
-
-Docker Basics
-
-Security Testing Basics
+(Optional)
+---3 month syllabus---
+K6 (Advanced Performance Testing) (2 classes)
+Security Testing Basics (2 classes)
+Docker Basics (1 class)
+CI/CD with GitHub Actions & Jenkins (1 class)
 
 💰 Course Fees
 📘 Regular Batch – Total: 8,500 BDT
 Installment 1: 3,000 BDT
-
 Installment 2: 2,500 BDT
-
 Installment 3: 3,000 BDT
-
 🎁 Top 5 students get 500 BDT discount each month
+Classes: Every Monday, Wednesday & Friday
 
 💼 Job Holder Batch – Total: 10,000 BDT
 Installment 1: 3,500 BDT
-
-Installment 2: 3,000 BDT
-
-Installment 3: 3,500 BDT
-
+Installment 2: 3,500 BDT
+Installment 3: 3,000 BDT (Optional)
 🎁 Top 3 students get 500 BDT discount each month
+Classes: Every Saturday & Sunday
 
 🏢 Offline Batch (Special Request Only)
 Duration: 3 months
-
 Fee: 30,000 BDT (10,000 BDT/month)
-
 Classes: Every Saturday & Sunday
-
 Contact instructor directly for details (address and time via phone call)
 
 💳 How to Enroll and Pay
 Fill the form at the enrollment link (above)
-
 You’ll receive payment details via email
-
 Send payment via bKash/Nagad to the number below
-
 Confirm via WhatsApp with transaction screenshot
-
 You’ll receive:
-
 Student Portal credentials
-
 Google Drive access
-
 Class calendar
-
 Discord access and more
 
 📱 Payment Number (bKash): 01686606909
@@ -154,9 +130,6 @@ Discord access and more
 
 📞 Contact Us
 Phone / WhatsApp: +8801782808778
-
 Email: roadtosdet@gmail.com
-
 Website: https://www.roadtocareer.net
-
 Facebook Page: https://www.facebook.com/roadtosdet
