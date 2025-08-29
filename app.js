@@ -4,6 +4,7 @@ const cors = require('cors');
 
 const app = express();
 const sdetbotRoutes = require('./roadtosdet/chatbot.route.js');
+const webhookRoutes = require("./roadtosdet/webhook.route.js");
 
 // CORS MUST come before routes
 // app.use(cors({
@@ -18,5 +19,6 @@ app.use(cors({
 app.use(bodyParser.json());
 
 app.use('/roadtosdet', sdetbotRoutes);
+app.use("/webhook", webhookRoutes);
 
 module.exports = app;
