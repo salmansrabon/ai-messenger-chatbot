@@ -17,8 +17,6 @@ app.use(cors({
 
 app.use(bodyParser.json());
 
-const sdetbotRoutes = require('./roadtosdet/chatbot.route.js');
-
 app.use('/roadtosdet', sdetbotRoutes);
 
 module.exports = app;
