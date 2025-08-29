@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 const app = express();
+const sdetbotRoutes = require('./roadtosdet/chatbot.route.js');
 
 // CORS MUST come before routes
 // app.use(cors({
@@ -17,9 +18,7 @@ app.use(cors({
 app.use(bodyParser.json());
 
 const sdetbotRoutes = require('./roadtosdet/chatbot.route.js');
-const careerbotRoutes = require('./roadtocareer/chatbot.route.js');
 
 app.use('/roadtosdet', sdetbotRoutes);
-app.use('/roadtocareer', careerbotRoutes);
 
 module.exports = app;
