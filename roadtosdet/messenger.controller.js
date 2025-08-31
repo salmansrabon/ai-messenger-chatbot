@@ -5,17 +5,25 @@ dotenv.config();
 
 const VERIFY_TOKEN = process.env.VERIFY_TOKEN || "1234";
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN; // required
-const FB_API = "https://graph.facebook.com/v13.0/me/messages";
+const FB_API = "https://graph.facebook.com/v21.0/me/messages";
 
 // GET /webhook — Facebook verification
 const verifyWebhook = (req, res) => {
+  console.log('Webhook verification request received');
+  console.log('Query params:', req.query);
+  
   const mode = req.query["hub.mode"];
   const token = req.query["hub.verify_token"];
   const challenge = req.query["hub.challenge"];
 
+  console.log(`Mode: ${mode}, Token: ${token}, Challenge: ${challenge}`);
+  console.log(`Expected token: ${VERIFY_TOKEN}`);
+
   if (mode === "subscribe" && token === VERIFY_TOKEN) {
+    console.log('Verification successful, sending challenge');
     return res.status(200).send(challenge);
   }
+  console.log('Verification failed');
   return res.sendStatus(403);
 };
 
@@ -48,15 +56,22 @@ const handleWebhook = async (req, res) => {
 // ----- helpers -----
 async function processMessage(message) {
   try {
-    const apiUrl = `${process.env.PORT}/roadtosdet/chat`;
-    const { data } = await axios.post(
-      apiUrl,
-      { question: message },
-      { headers: { "Content-Type": "application/json" }, timeout: 15000 }
-    );
-
-    if (data && typeof data.message === "string" && data.message.trim().length) {
-      return data.message;
+    // Instead of making HTTP call to self, directly import and use chatbot controller
+    const { chatBotResponse } = require("./chatbot.controller.js");
+    
+    // Create a mock request/response to use the existing chatbot function
+    const mockReq = { body: { question: message } };
+    let responseData = null;
+    
+    const mockRes = {
+      status: () => ({ json: (data) => { responseData = data; } }),
+      json: (data) => { responseData = data; }
+    };
+    
+    await chatBotResponse(mockReq, mockRes);
+    
+    if (responseData && typeof responseData.message === "string" && responseData.message.trim().length) {
+      return responseData.message;
     }
     return "Unexpected response from API";
   } catch (err) {
@@ -82,10 +97,17 @@ async function sendMessageToMessenger(recipientId, messageText) {
       message: { text: messageText },
     };
 
+    // Use Authorization header instead of query parameter to match your working curl
     await axios.post(
-      `${FB_API}?access_token=${encodeURIComponent(PAGE_ACCESS_TOKEN)}`,
+      FB_API,
       payload,
-      { headers: { "Content-Type": "application/json" }, timeout: 15000 }
+      { 
+        headers: { 
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${PAGE_ACCESS_TOKEN}`
+        }, 
+        timeout: 15000 
+      }
     );
   } catch (err) {
     console.error(

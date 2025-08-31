@@ -6,6 +6,12 @@ const app = express();
 const sdetbotRoutes = require('./roadtosdet/chatbot.route.js');
 const webhookRoutes = require("./roadtosdet/webhook.route.js");
 
+// Basic request logging
+app.use((req, res, next) => {
+  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);
+  next();
+});
+
 // CORS MUST come before routes
 // app.use(cors({
 //   origin: ['http://localhost:3000', 'https://roadtocareer.net'],
