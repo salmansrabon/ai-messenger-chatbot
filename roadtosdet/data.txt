@@ -1,11 +1,10 @@
 🚀 Road to SDET — Your Gateway to a Career in Software Quality Assurance
 Road to SDET is a premier online institute offering a comprehensive Full Stack SQA Engineering Course, designed to equip students and professionals with the skills needed to excel in the software testing industry.
 
-We are proud to have trained over 750 students, with 600+ successfully placed at 150+ companies with the renowned tech companies across the country.
+We are proud to have trained over 850 students, with 650+ successfully placed at 150+ companies with the renowned tech companies across the country.
 
 👨‍🏫 Meet the Instructors
 Our lead instructor, Salman Rahman, is a Senior Software Engineer at Cefalo Bangladesh Ltd., holding an ISTQB CTFL certification and over 10 years of industry experience.
-He is joined by other highly experienced instructors, each with 5+ years of hands-on experience in QA and automation.
 
 🎓 Course Overview
 🧪 Course Name: Full Stack SQA Engineering
@@ -16,19 +15,19 @@ He is joined by other highly experienced instructors, each with 5+ years of hand
 🎯 Final Certificate: Awarded after completion of at least 8 projects
 
 🕒 Class Schedules
-🔹 Regular Batch (Fresh Graduates & Students)
-🗓 Orientation Class: Saturday, August 2, 2025, at 8:30 PM
+🔹 Regular Batch 17 (Fresh Graduates & Students)
+🗓 Orientation Class: Saturday, November 8, 2025, at 8:30 PM
 
-📚 Regular Classes Start: Monday, August 4, 2025
+📚 Regular Classes Start: Monday, November 10, 2025
 
 🕗 Class Days: Monday, Wednesday, Friday
 
 🕘 Class Time: 8:30 PM – 10:30 PM
 
-📌 Enroll Here: https://www.roadtocareer.net/courses/sdet162025
+📌 Enroll Here: https://www.roadtocareer.net/courses/sdet172025
 
 🔹 Job Holder Batch (Professionals)
-🗓 Starts: First week of September 2025 (Exact date to be announced)
+🗓 Starts: First week of December 2025 (Exact date to be announced)
 
 🕗 Class Days: Saturday and Sunday
 
@@ -114,7 +113,7 @@ Discord access and more
 
 💵 Monthly merit-based incentives (500 BDT for top performers)
 
-🔗 Strong job referral network (500+ alumni placed in 100+ companies)
+🔗 Strong job referral network (650+ alumni placed in 150+ companies)
 
 🧪 Mock interviews with senior QA engineers
 
