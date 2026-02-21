@@ -1,7 +1,7 @@
 🚀 Road to SDET — Your Gateway to a Career in Software Quality Assurance
 Road to SDET is a premier online institute offering a comprehensive Full Stack SQA Engineering Course, designed to equip students and professionals with the skills needed to excel in the software testing industry.
 
-We are proud to have trained over 850 students, with 650+ successfully placed at 150+ companies with the renowned tech companies across the country.
+We are proud to have trained over 950 students, with 750+ successfully placed at 150+ companies with the renowned tech companies across the country.
 
 👨‍🏫 Meet the Instructors
 Our lead instructor, Salman Rahman, is a Senior Software Engineer at Cefalo Bangladesh Ltd., holding an ISTQB CTFL certification and over 10 years of industry experience.
@@ -15,19 +15,19 @@ Our lead instructor, Salman Rahman, is a Senior Software Engineer at Cefalo Bang
 🎯 Final Certificate: Awarded after completion of at least 8 projects
 
 🕒 Class Schedules
-🔹 Regular Batch 17 (Fresh Graduates & Students)
-🗓 Orientation Class: Sunday, November 9, 2025, at 8:30 PM
+🔹 Regular Batch 18 (Fresh Graduates & Students)
+🗓 Orientation Class: Satday, April 4, 2026, at 8:30 PM
 
-📚 Regular Classes Start: Monday, November 10, 2025
+📚 Regular Classes Start: Monday, April 6, 2026
 
 🕗 Class Days: Monday, Wednesday, Friday
 
 🕘 Class Time: 8:30 PM – 10:30 PM
 
-📌 Enroll Here: https://www.roadtocareer.net/courses/sdet172025
+📌 Enroll Here: https://www.roadtocareer.net/courses/sdet182025
 
 🔹 Job Holder Batch (Professionals)
-🗓 Starts: First week of December 2025 (Exact date to be announced)
+🗓 Starts: No announcement regarding new batch starting
 
 🕗 Class Days: Saturday and Sunday
 
@@ -40,18 +40,18 @@ CSE, EEE, ETE, ECE, IT
 Diploma in CSE/CS/IT
 
 📚 Course Modules
-🔸 Regular Batch-3 month course, total (32-35 classes)
-Manual Testing (5 classes, covering 50% of ISTQB syllabus)
+🔸 Regular Batch-3 month course, total (34-36 classes)
+Manual Testing (6 classes, covering 50% of ISTQB syllabus)
 Burpsuite (1 class )
 API Testing (Postman, Newman) (3 classes)
 Performance Testing (JMeter) (2 classes)
 MySQL Database (1 class)
 Core Java + Problem Solving + OOP (6 classes)
-Selenium with JUnit & TestNG (5 classes)
+Selenium with JUnit & TestNG (6 classes)
 Appium (Android Mobile App Automation) (2 classes)
 API Automation (Rest Assured) (1 class)
-JavaScript (NodeJS) (3 classes)
-Web Automation (Playwright) (2 classes)
+JavaScript (NodeJS) (4 classes)
+Web Automation (Playwright) (3 classes)
 Git & GitHub (including automation class)
 CI/CD (1 class)
 
@@ -59,17 +59,15 @@ CI/CD (1 class)
 Includes following topics:
 
 ---2 month syllabus---
-Problem solving with Java & OOP (5 classes)
+Problem solving with Java & OOP (7 classes)
 Selenium with junit & TestNG (5 classes)
 API automation with Rest assured (1 class)
-Mobile App automation (Android) (1 class)
+Mobile App automation (Android) (2 class)
 JavaScript & Playwright (6 classes)
 
 (Optional)
 ---3 month syllabus---
-K6 (Advanced Performance Testing) (2 classes)
 Security Testing Basics (2 classes)
-Docker Basics (1 class)
 CI/CD with GitHub Actions & Jenkins (1 class)
 
 💰 Course Fees
